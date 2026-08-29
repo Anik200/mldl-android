@@ -16,7 +16,3 @@
 
 ---
 
-## 📥 Direct APK Download
-
-Download the ready-to-install Android APK:
-- **[Download mldl-v1.0.0.apk](./mldl)**
