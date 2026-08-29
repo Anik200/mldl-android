@@ -13,6 +13,11 @@
 -  **Display Scaling**: Easily adjust whole app layout and font sizes in Settings.
 -  **Identical File Naming & Backup**: Matches your music file name exactly (e.g. `song.flac` $\rightarrow$ `song.ttml`) and automatically archives existing lyric files to an `lrc/` subfolder.
 -  **Multi-Format Support**: Apple Music **TTML**, **Enhanced LRC**, **Standard LRC**, **SRT**, and **JSON**.
+## Screenshots
+<img width="461" height="1024" alt="Screenshot_2026-08-29-20-29-09-72_b319187d7531671e90750c9b9611eb29" src="https://github.com/user-attachments/assets/7bde23e6-1c56-4a9d-b6c5-4164f7b262d1" />
+<img width="461" height="1024" alt="Screenshot_2026-08-29-20-29-12-76_b319187d7531671e90750c9b9611eb29" src="https://github.com/user-attachments/assets/303cc4a9-9855-4c71-8874-069b2f8a18cc" />
+<img width="461" height="1024" alt="Screenshot_2026-08-29-20-28-37-78_b319187d7531671e90750c9b9611eb29" src="https://github.com/user-attachments/assets/d69b7d88-1965-4256-a49e-48f8ff201b73" />
+<img width="461" height="1024" alt="Screenshot_2026-08-29-20-28-53-28_b319187d7531671e90750c9b9611eb29" src="https://github.com/user-attachments/assets/42c567d8-5958-4325-a226-4494d493a0f1" />
 
 ---
 
