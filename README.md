@@ -27,6 +27,9 @@
 - **Identical File Naming & Backup**: Matches your music file name exactly (e.g. `song.flac` $\rightarrow$ `song.ttml`) and automatically archives existing lyric files to an `lrc/` subfolder.
 
 - **Multi-Format Support**: Apple Music **TTML**, **Enhanced LRC**, **Standard LRC**, **SRT**, and **JSON**.
+  
+- **Translations On The GO**: add translations to your existing lyrics or download lryics with translations with your preferred language
+  
 - ## Screenshots
 
 | Scanner | Lyrics Preview | Batch Download | Album View |
