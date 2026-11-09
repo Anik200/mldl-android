@@ -29,5 +29,5 @@
 ## 📥 Direct APK Download
 
 Download the ready-to-install Android APK:
-- **[Download mldl-v1.0.8.apk](./mldl-v1.0.8.apk)** (Latest v1.0.8)
+- **[Download mldl-v1.0.9.apk](./mldl-v1.0.9.apk)** (Latest v1.0.9)
 
